@@ -1,5 +1,6 @@
 package com.devsuperior.movieflix.entities;
 
+import com.devsuperior.movieflix.entity.Role;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

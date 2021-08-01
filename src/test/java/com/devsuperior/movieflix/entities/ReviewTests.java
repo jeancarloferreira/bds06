@@ -1,5 +1,8 @@
 package com.devsuperior.movieflix.entities;
 
+import com.devsuperior.movieflix.entity.Movie;
+import com.devsuperior.movieflix.entity.Review;
+import com.devsuperior.movieflix.entity.User;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 
